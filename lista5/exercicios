@@ -1,0 +1,17 @@
+Exercício sobre Fila e Pilha
+
+ 
+
+1.     Descreva uma função em Python para retornar o número de elementos da fila que possuem valor ímpar.
+
+2.     Descreva uma função em Python que receba uma fila como argumento e retorne o valor armazenado em seu início. A função deve remover também esse elemento.
+
+3.     Descreva uma função em Python que receba uma pilha como argumento e retorne o valor armazenado em seu topo. A função deve remover também esse elemento.
+
+4.     Considere uma pilha P vazia e uma fila F não vazia. Utilizando apenas as funções da fila e da pilha, escreva uma função em Python que inverta a ordem dos elementos da fila.
+
+5.     Faça um programa em Python que armazena filmes produzidos por vários diretores e:
+
+a.     Crie e leia um vetor de 5 diretores, cada um contendo nome (máximo 20 letras), quantidade de filmes e os filmes. O membro filmes é um vetor que deve ser criado após ter lido quantidade de filmes. Cada filme é composto por nome, ano e duração.
+
+b.     Procure um diretor por nome, mostrando todos os filmes que ele já produziu. Repita o processo até digitar uma string vazia. 
